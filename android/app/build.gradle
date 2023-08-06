@@ -45,7 +45,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.example.fit_bits"
+        applicationId "com.example.fitbits"
         minSdkVersion 19
         targetSdkVersion flutter.targetSdkVersion
         versionCode flutterVersionCode.toInteger()
